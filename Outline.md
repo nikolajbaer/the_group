@@ -28,6 +28,7 @@ As soon as you are no longer alone, you are presented with the challenge of comm
 **Shared History** 
     - Having a shared history of things steramlines our communication. Think of it as compression.
     - When we speak the same language, we have reinforced the simple terms, and we can clearly understand "milk", or "hot", or "blue"
+    - insight: Meetings / Time spent is an investment in shared history, even if they feel frustrating as you hash out a clearer common understanding
     - illustration: ?someone saying blue, and one person thinking of deep ocean blue, the other thinking of .. sky blue?
 
 **Perspective**
